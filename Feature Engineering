@@ -1,0 +1,17 @@
+✔️ Label Encoding
+
+Convert all categorical columns into numeric using LabelEncoder.
+
+✔️ Save Encoders
+
+All label encoders saved using pickle for deployment consistency.
+
+✔️ Imbalanced Dataset Handling
+
+Used SMOTE (Synthetic Minority Oversampling Technique) to balance:
+
+Churn = Yes
+
+Churn = No
+
+SMOTE creates synthetic minority samples—improving recall and F1 score.
