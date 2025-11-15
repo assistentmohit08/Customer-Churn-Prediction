@@ -1,0 +1,25 @@
+1️⃣ Decision Tree Classifier
+
+Simple
+
+High interpretability
+
+Prone to overfitting
+
+2️⃣ Random Forest Classifier
+
+Ensemble of decision trees
+
+Reduces overfitting
+
+Better accuracy
+
+3️⃣ XGBoost Classifier (Best Model)
+
+Gradient boosting
+
+Learns from mistakes
+
+Fast and highly accurate
+
+Best performance on test data
