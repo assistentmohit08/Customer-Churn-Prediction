@@ -1,0 +1,33 @@
+✔️ 1. Data Loading
+
+Load the Telco dataset using pandas.
+
+✔️ 2. Data Cleaning
+
+Remove customerID
+
+Handle blank values in TotalCharges
+
+Convert datatypes
+
+✔️ 3. Exploratory Data Analysis (EDA)
+
+Performed:
+
+Histograms
+
+Boxplots
+
+Countplots for categorical variables
+
+Correlation heatmap
+
+Findings:
+
+Monthly charges and contract type heavily impact churn
+
+Customers with month-to-month contracts churn more
+
+High charges → high churn
+
+Many customers leave early (tenure < 12 months)
