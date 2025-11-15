@@ -1,0 +1,30 @@
+Dataset used: Telco Customer Churn Dataset
+
+Total Entries: 7043
+Total Features: 21
+
+Key Columns:
+
+gender
+
+SeniorCitizen
+
+Partner, Dependents
+
+tenure
+
+PhoneService, MultipleLines
+
+InternetService, OnlineSecurity, TechSupport
+
+Contract, PaymentMethod
+
+MonthlyCharges, TotalCharges
+
+Churn (Target Column)
+
+Target Variable:
+
+Yes → 1 (Customer will churn)
+
+No → 0 (Customer will not churn)
