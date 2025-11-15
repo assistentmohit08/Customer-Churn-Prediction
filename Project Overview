@@ -1,0 +1,4 @@
+Customer churn is one of the most critical business metrics for telecom industries. 
+Churn refers to customers who leave the service. Predicting churn helps companies take proactive actions such as offering discounts, improving services, and identifying risky customers.
+
+This project builds a Machine Learning model to predict whether a customer will churn based on demographic information, account details, and service usage patterns.
