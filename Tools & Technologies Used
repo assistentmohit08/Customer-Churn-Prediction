@@ -1,0 +1,15 @@
+Python
+
+Jupyter Notebook / Google Colab
+
+NumPy, Pandas → data manipulation
+
+Matplotlib, Seaborn → visualization
+
+Scikit-Learn → model building
+
+SMOTE → handle class imbalance
+
+XGBoost → boosting model
+
+Pickle → saving encoders & model
